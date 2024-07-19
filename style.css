@@ -1,0 +1,68 @@
+/* Global Font */
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 53%, rgba(14,7,16,1) 61%, rgba(86,45,94,1) 75%, rgba(41,4,111,1) 88%, rgba(246,37,126,1) 93%, rgba(172,125,188,1) 96%);
+    color: #855580;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/* Global Text */
+h1, h2, h3, h4, h5, h6 {
+    color: #ff1de8;
+}
+
+.card{
+    background-color: #000000;
+    border: 1px solid #000000;
+    border-radius: 23px;`
+    padding: 20px;
+    margin: 50px;
+}
+
+.header {
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 53%, rgba(14,7,16,1) 61%, rgb(6, 15, 33) 75%, rgba(41,4,111,1) 88%, rgb(37, 51, 246) 93%, rgb(55, 9, 70) 96%);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 23px;
+}
+
+.sillyguy {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 2px solid #ff00e6;
+    margin: 20px;
+    margin-top: 90px;
+}
+
+.textarea{
+    width: 100%;
+    height: 100px;
+    padding: 52px 50px;
+    margin: 8px 0px;
+    box-sizing: border-box;
+    border: 2px solid #ff00e6;
+    border-radius: 4px;
+    background-color: #000000;
+    color:aquamarine;
+    text-align: center;
+}
+
+.footer {
+
+}
+
+.btn {
+    background-color: #855580;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
